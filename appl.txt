@@ -2,3 +2,6 @@ Hi srinivas
 
 
 this is app file trying to test pull
+ this is abot to merge file with in the local file
+
+I am about to merge this dev to clear
